@@ -38,7 +38,7 @@ For each tool, I execute a baseline check to confirm binary integrity:
 ### Activity: Network Recon Verification
 I used **Nmap** within my Kali VM to verify connectivity to the local subnet.
 
-**Command:** `nmap -sV 192.168.1.xx`
+**Command:** `nmap -sV 192.168.1.63`
 
 ---
 
